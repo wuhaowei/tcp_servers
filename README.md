@@ -4,3 +4,5 @@ practice tcp in python (OOP)
 2. multi-processing version
 3. multi-threading version
 4. multi-tasking with non-blocking
+5. multi-tasking with select
+6. multi-tasking with epoll (Linux)
