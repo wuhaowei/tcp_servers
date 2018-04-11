@@ -1,5 +1,4 @@
 import select
-import sys
 from tcp_server_single_process import TcpServer
 
 class TcpServer_select(TcpServer):
