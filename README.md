@@ -6,4 +6,4 @@ practice tcp in python (OOP)
 4. multi-tasking with non-blocking
 5. multi-tasking with select
 6. multi-tasking with epoll (Linux)
-7. multi-tasking with gevent (coroute)
+7. multi-tasking with gevent (coroutine)
